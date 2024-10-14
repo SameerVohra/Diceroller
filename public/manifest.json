@@ -1,0 +1,16 @@
+{
+  "name": "Dice Roller",
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "description": "A simple Dice Roller extension",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+  "permissions": [
+    "scripting"
+  ]
+}
