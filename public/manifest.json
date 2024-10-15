@@ -12,5 +12,9 @@
   ],
   "permissions": [
     "scripting"
-  ]
+  ],
+  "icons": {
+    "48": "./dice.png",
+    "96": "./dice.png"
+  }
 }
